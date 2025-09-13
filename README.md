@@ -5,9 +5,9 @@
 </h1>
 <h3>
   <p> 
-    <img href="https://discordapp.com/users/663637660677570590" width="48" height="48" src="https://img.icons8.com/liquid-glass/48/discord-logo.png" alt="discord-logo"/> 
-    <img href="https://t.me/kr3ndi" width="48" height="48" src="https://img.icons8.com/liquid-glass/48/telegram-app.png" alt="telegram-app"/> 
-    <img href="https://steamcommunity.com/profiles/76561198026250361" width="48" height="48" src="https://img.icons8.com/liquid-glass/100/steam.png" alt="steam"/>
+    <a href="https://discordapp.com/users/663637660677570590"><img width="48" height="48" src="https://img.icons8.com/liquid-glass/48/discord-logo.png" alt="discord-logo"/><a/>
+    <a href="https://t.me/kr3ndi"><img width="48" height="48" src="https://img.icons8.com/liquid-glass/48/telegram-app.png" alt="telegram-app"/><a/>
+    <a href="https://steamcommunity.com/profiles/76561198026250361"><img width="48" height="48" src="https://img.icons8.com/liquid-glass/100/steam.png" alt="steam"/><a/>
   </p>
   <p>Python junior back-end developer from Russia <img src="https://media1.tenor.com/m/srYv9s6g9SoAAAAC/russia-flag-gif.gif" height="16"/></p>
   <p>• I'm currently studying the Flask library</p>
