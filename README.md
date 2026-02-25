@@ -10,6 +10,6 @@
     <a href="https://steamcommunity.com/profiles/76561198026250361"><img width="48" height="48" src="https://img.icons8.com/liquid-glass/100/steam.png" alt="steam"/><a/>
   </p>
   <p>Python junior back-end developer from Russia <img src="https://media1.tenor.com/m/srYv9s6g9SoAAAAC/russia-flag-gif.gif" height="16"/></p>
-  <p>• I'm currently studying the Flask library</p>
+  <p>• I'm currently studying the Flask library T0LH5AkMltup8CP8x6XHGHseqQSGMabu_IZYTcPLPa4</p>
 </h3>
 </div>
